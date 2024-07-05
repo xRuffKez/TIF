@@ -13,6 +13,6 @@ This repository contains a comprehensive list of threatening domains. Some domai
 The primary source of domains is my NRD list.
 
 ## License
-This repository is licensed under the DBAD License. See the LICENSE file for more details.
+This repository is licensed under the DBAD License. See the [LICENSE](LICENSE.md) file for more details.
 
 Thank you for using the Threatening Domains Repository. Your vigilance helps keep the internet safer for everyone.
