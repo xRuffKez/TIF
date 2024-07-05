@@ -1,7 +1,7 @@
 # Author: xRuffKez
 # This is a phishing list of newly registered domains. The list is part of my threat intelligence feed.
 # Total domains: 249
-# Newly added domains: 0
+# Newly added domains: 249
 # Removed domains: 44
 
 1winwwwoff24.buzz
@@ -253,4 +253,5 @@ xonlyfans.click
 xonlyfans.xyz
 zhshtf-login.icu
 zonaksplay88login.baby
+
 # EOF
