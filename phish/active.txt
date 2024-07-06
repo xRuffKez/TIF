@@ -98,6 +98,7 @@ googlefuncc.app
 googleuserapiscdn.net
 gstlogin.org
 hacksupport.info
+hacksupport.org
 hacksupport.pro
 halosupportiveliving.net
 horaslogin.xyz
@@ -264,7 +265,6 @@ supportprop36ca.net
 supportprop36california.net
 supportslivraisons.info
 testsupport.net
-thebackup.movie
 tsupport.info
 twitter-douga-calendar.net
 twittervideodownload.app
