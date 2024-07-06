@@ -1,8 +1,8 @@
 # Author: xRuffKez
 # This is a phishing list of newly registered domains. The list is part of my threat intelligence feed.
-# Total domains: 333
-# Newly added domains: 333
-# Removed domains: 65
+# Total domains: 330
+# Newly added domains: 330
+# Removed domains: 68
 
 15423207-coinbase.com
 1backup.net
@@ -23,7 +23,6 @@
 97csgo.com
 a1mediasupport.com
 abcdlogin.xyz
-acaocoletivadobem.com
 accasupport.org
 accountsupport-coinbase.com
 accountsupportd.com
@@ -168,7 +167,6 @@ mild888login.net
 mildcasinortplogin.boats
 minecraft-community.net
 mmwwwbb.shop
-mobi-facebookk.click
 my-www.info
 myonlyfans.info
 myonlyfans.online
@@ -186,7 +184,6 @@ paus138support.blog
 paypal.tattoo
 playgamezone.shop
 pluslogin.top
-portalsuporte.site
 provider-support.biz
 qlslegalsupport.org
 qqalfalogin.live
