@@ -1,5 +1,6 @@
 ### THIS IS ONLY AN ADDON FOR HAGEZI TIF!!!
 ### PLEASE USE HAGEZI TIF INSTEAD OF THIS REPOSITORY!
+### THIS REPO SUPPLIES HAGEZI TIF!!!
 
 ## Overview
 This repository contains a comprehensive list of threatening domains. Some domains are added programmatically, while others are manually curated. The domain lists are updated daily and are sourced from my NRD list. Additionally, each domain is checked for valid Name Server (NS) entries in DNS to ensure relevance.
